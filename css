@@ -1,0 +1,61 @@
+
+    /* Define as propriedades de estilo para o corpo do documento */
+    body {
+      font-family: Arial, sans-serif; /* Define a fonte utilizada */
+      background-color: #f2f2f2; /* Define a cor de fundo */
+      margin: 0; /* Remove as margens externas */
+      padding: 0; /* Remove o espaçamento interno */
+    }
+    
+    /* Define as propriedades de estilo para o cabeçalho */
+    #header {
+      padding: 20px; /* Define o espaçamento interno */
+      background-color: #008bcc; /* Define a cor de fundo */
+      color: #fff; /* Define a cor do texto */
+      text-align: center; /* Alinha o conteúdo ao centro */
+    }
+    
+    /* Define as propriedades de estilo para o logotipo */
+    #logo {
+      width: 200px; /* Define a largura */
+      height: 80px; /* Define a altura */
+    }
+    
+    /* Define as propriedades de estilo para a barra de navegação */
+    #nav {
+      background-color: #990000; /* Define a cor de fundo */
+      padding: 10px; /* Define o espaçamento interno */
+      color: #fff; /* Define a cor do texto */
+      text-align: center; /* Alinha o conteúdo ao centro */
+    }
+    
+    /* Define as propriedades de estilo para os links na barra de navegação */
+    #nav a {
+      color: #fff; /* Define a cor do texto */
+      text-decoration: none; /* Remove o sublinhado do link */
+      margin: 0 10px; /* Define as margens */
+    }
+    
+    /* Define as propriedades de estilo para o conteúdo */
+    #content {
+      padding: 20px; /* Define o espaçamento interno */
+    }
+    
+    /* Define as propriedades de estilo para cada artigo */
+    .article {
+      background-color: rgb(255, 255, 255); /* Define a cor de fundo */
+      border: 1px solid rgb(221, 221, 221); /* Adiciona uma borda */
+      padding: 20px; /* Define o espaçamento interno */
+      margin-bottom: 20px; /* Define a margem inferior */
+    }
+    
+    /* Define as propriedades de estilo para os títulos dos artigos */
+    .article h2 {
+      color: #cc0000; /* Define a cor do texto */
+    }
+    
+    /* Define as propriedades de estilo para os parágrafos dos artigos */
+    .article p {
+      margin-bottom: 10px; /* Define a margem inferior */
+    }
+
